@@ -1,6 +1,6 @@
 ### Udacity Self-Driving Car Nanodegree Capstone Integration Project
 
-## Idividual Submission
+## Individual Submission
 
 1. Saichandra Gottimukkula sgottim2@asu.edu
 
